@@ -1,0 +1,29 @@
+## Appstore/Downloads
+- Chrome
+- Docker
+- JDK
+- Flycut
+- Sublime
+- Atom
+ * Proto Repl
+- Eclipse
+- Skype
+
+
+## Terminal installs
+- Brew
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+- jq
+```
+brew install jq
+```
+- wget
+```
+brew install wget
+```
+- jenv
+```
+brew install jenv
+```
