@@ -27,3 +27,9 @@ brew install wget
 ```
 brew install jenv
 ```
+- python
+```
+brew install python
+# python 2 will be available with python2 command
+# python 3 will be available with python3 command
+```
