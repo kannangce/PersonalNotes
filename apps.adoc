@@ -9,6 +9,7 @@
 - Eclipse
 - Skype
 - VLC
+- Lein
 
 
 ## Terminal installs
