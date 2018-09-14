@@ -5,7 +5,8 @@
 - Flycut
 - Sublime
 - Atom
- * Proto Repl
+ * proto-repl
+ * parinfer
 - Eclipse
 - Skype
 - VLC
