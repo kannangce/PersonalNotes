@@ -36,3 +36,9 @@ brew install python
 # python 2 will be available with python2 command
 # python 3 will be available with python3 command
 ```
+
+- pelican
+
+```
+pip3 install pelican markdown
+```
