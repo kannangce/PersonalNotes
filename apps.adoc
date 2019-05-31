@@ -42,3 +42,9 @@ brew install python
 ```
 pip3 install pelican markdown
 ```
+
+- Utils such as `sha256`
+
+```
+brew install coreutils
+```
