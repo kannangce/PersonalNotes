@@ -4,11 +4,9 @@
 - JDK
 - Flycut
 - Sublime
-- Atom
- * proto-repl
- * parinfer
+- VS-Code
+ * calva
 - Eclipse
-- Skype
 - VLC
 - Lein
 
@@ -47,4 +45,10 @@ pip3 install pelican markdown
 
 ```
 brew install coreutils
+```
+
+- babaksha
+
+```
+brew install borkdude/brew/babashka
 ```
