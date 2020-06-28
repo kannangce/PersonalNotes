@@ -1,7 +1,6 @@
 ## Appstore/Downloads
 - Chrome
 - Docker
-- JDK
 - Flycut
 - Sublime
 - VS-Code
@@ -16,6 +15,14 @@
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+- Java
+```
+brew tap adoptopenjdk/openjdk
+brew cask install adoptopenjdk8
+brew cask install adoptopenjdk11
+```
+
 - jq
 ```
 brew install jq
