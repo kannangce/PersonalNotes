@@ -11,51 +11,45 @@
 
 
 ## Terminal installs
-- Brew
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
 
-- Java
 ```
+# Brew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Java
+
 brew tap adoptopenjdk/openjdk
 brew cask install adoptopenjdk8
 brew cask install adoptopenjdk11
-```
 
-- jq
-```
+# jq
+
 brew install jq
-```
-- wget
-```
+
+# wget
+
 brew install wget
-```
-- jenv
-```
+
+# jenv
+
 brew install jenv
-```
-- python
-```
+
+# python
+
 brew install python
 # python 2 will be available with python2 command
 # python 3 will be available with python3 command
-```
 
-- pelican
+# pelican and required utils
 
-```
 pip3 install pelican markdown
-```
+brew install asciidoctor
 
-- Utils such as `sha256`
+# Utils such as `sha256`
 
-```
 brew install coreutils
-```
 
-- babaksha
+# babaksha
 
-```
 brew install borkdude/brew/babashka
 ```
