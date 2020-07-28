@@ -52,4 +52,8 @@ brew install coreutils
 # babaksha
 
 brew install borkdude/brew/babashka
+
+# NPM
+
+brew install npm
 ```
