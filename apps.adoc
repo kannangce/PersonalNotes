@@ -7,7 +7,6 @@
  * calva
 - Eclipse
 - VLC
-- Lein
 
 
 ## Terminal installs
@@ -33,6 +32,9 @@ brew install wget
 # jenv
 
 brew install jenv
+
+# Lein
+curl -s https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein > /usr/local/bin/lein && chmod +x /usr/local/bin/lein
 
 # python
 
